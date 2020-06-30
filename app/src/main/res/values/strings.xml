@@ -13,4 +13,6 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+    <string name="navegacao_titulo">ATM Consultoria</string>
+    <string name="navagacao_email">atendimento@atmconsultoria.com.br</string>
 </resources>
