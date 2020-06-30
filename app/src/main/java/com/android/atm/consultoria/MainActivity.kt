@@ -35,7 +35,8 @@ class MainActivity : AppCompatActivity() {
 
         //Configuração dos menus
         appBarConfiguration = AppBarConfiguration(setOf(
-
+            R.id.nav_principal, R.id.nav_servicos, R.id.nav_clientes,
+            R.id.nav_contato, R.id.nav_sobre
         ), drawerLayout)
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
